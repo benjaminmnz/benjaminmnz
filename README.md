@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/benjaminmnz/benjaminmnz/main/assets/terminal.svg" width="900" alt="Terminal de Benjamin: Python, EcoTech y cursor animado" />
+</p>
 
-<!--
-**benjaminmnz/benjaminmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `$ ls ~/projects`
 
-Here are some ideas to get you started:
+| Proyecto | Código |
+| :--- | :--- |
+| **EcoTech** · Proyecto en Python | [Abrir repositorio →](https://github.com/benjaminmnz/EcoTech) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `$ git remote -v`
+
+[GitHub · @benjaminmnz](https://github.com/benjaminmnz)
