@@ -5,7 +5,7 @@
 ### `$ ls ~/certifications`
 
 <a href="https://www.credly.com/badges/91b0f564-b755-46ef-8a6c-3645ecc6ff15/public_url">
-<img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" alt="Cisco — Introduction to Cybersecurity" />
+<img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" alt="Cisco — Introduction to Cybersecurity" />
 </a>
 
 **Introduction to Cybersecurity** · Cisco  
